@@ -53,6 +53,20 @@
     top: 10rem;
     left: 10rem;
 }
+.stylish-font {
+    font-family: 'Edwardian Script ITC';
+    font-size: 36pt;
+}
+.height-50 {
+    height: 50px;
+}
+.anna-font {
+    font-family: 'Magna';
+    font-size: 36pt;
+}
+.service-font {
+    font-family: 'Berlin Sans FB';
+}
 hr {
     height: .25rem;
     width: 25%;
