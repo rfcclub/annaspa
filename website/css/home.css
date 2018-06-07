@@ -39,12 +39,12 @@
 }  
 .carousel-initial {
     opacity: 0;
-    transform: translateX(10%);
+    transform: translateY(-20%);
     transition: all 1s ease-out;
 }
 .carousel-show {
     opacity: 1;
-    transform: translateX(0);
+    transform: translateY(0);
 }
 .carousel-text {
     font-family: 'Edwardian Script ITC';
